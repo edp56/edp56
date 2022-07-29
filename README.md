@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @edp56 (Real name Ezra)
+- 👋 Hi, I’m @edp56 
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently a CS student at the University of Arizona
 - 💞️ I’m looking to collaborate on projects and learn as much as I can
